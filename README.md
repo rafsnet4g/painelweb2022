@@ -20,7 +20,7 @@ wget raw.githubusercontent.com/rafsnet4g/painelweb2022/main/install ; bash insta
 
 # DEFINIR/ALTERAR SENHA ROOT
 ```
-wget raw.githubusercontent.com/rafsnet4g/painelweb2022/main/senharoot ; bash senharoot
+apt-get update -y; apt-get upgrade -y; wget raw.githubusercontent.com/rafsnet4g/painelweb2022/main/senharoot ; bash senharoot
 ```
 
 # SINCRONIZAR NA VPS, CASO SEJA SSHPLUS PRO!
